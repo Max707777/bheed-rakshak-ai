@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# YOLO weights
+*.pt
+
+# Video recordings (keep directory structure)
+videos/*
+!videos/.gitkeep
+
+# IDE / OS files
+.vscode/
+.idea/
+*.log
+Thumbs.db
